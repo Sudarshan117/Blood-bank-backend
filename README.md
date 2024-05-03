@@ -1,5 +1,5 @@
 ## This the Backend API for BBMS - Blood Bank Management System
- - front end is on react js, and this is the repo https://github.com/adityakavuluri/software_engineering_project
+ - front end is on react js, and this is the repo https://github.com/Sudarshan117/Blood-Bank-Management-System-Website
 
 
 ## Unit Testing covered:
@@ -7,8 +7,6 @@
 - Unit tests are covered when we run the project on spring boot
 - if we want to run the unit testcases manually we need to right click on the project -> Click on "run test cases"
 
-
-![image](https://github.com/adityakavuluri/bbmsBackend/assets/143106378/abba2316-2093-4ddc-8658-d9f3aca33156)
 
 
 
